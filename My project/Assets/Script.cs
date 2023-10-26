@@ -5,7 +5,6 @@ using UnityEngine;
 public class Script : MonoBehaviour
 {
     public GameObject obj;
-    // Start is called before the first frame update
     public void Deactive()
     {
         if(obj.activeSelf)
